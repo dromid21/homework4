@@ -1,6 +1,7 @@
 // Create constant url containing json file for later extraction
 const url = `https://jsonplaceholder.typicode.com/users`;
 
+
 // XMLHttpRequest procedure
 // ------------------------
 let req = new XMLHttpRequest(); // assign variable req to an XMLHttpRequest
