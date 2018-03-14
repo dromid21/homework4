@@ -92,3 +92,5 @@ fetch(url) // Fetch url constant
         'User usernames from fetch: </br></br>' + '[' + usernames + ']';
     });
 });
+
+// Fin
